@@ -39,6 +39,3 @@
   * 他人創造的文件
 
 
-# Purchasing List
-* physical check-up with Wife-2024-01
-  * [安慎- 套餐](https://www.ansn-health.com.tw/health.php)
