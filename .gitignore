@@ -6,3 +6,6 @@
 
 # And don't ignore Markdown files
 !*.md
+
+# Jpg
+!*.jpg
